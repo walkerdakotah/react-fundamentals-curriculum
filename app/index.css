@@ -77,3 +77,12 @@ body {
     background-color: #5cb85c;
     border-color: #4cae4c;
 }
+
+.navbar {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: rgba(252, 90, 44, .89);
+  color: #fff;
+  padding: 5px;
+}
